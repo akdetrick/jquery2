@@ -1,6 +1,6 @@
 {
-    "name": "components/jquery",
-    "description": "jQuery JavaScript Library",
+    "name": "iki/jquery2",
+    "description": "jQuery v2 component - if you need both v2 (ie9+) and v1 (ie8-)",
     "type": "component",
     "homepage": "http://jquery.com",
     "license": "MIT",
